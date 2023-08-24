@@ -1,4 +1,4 @@
-# HOT
+# SuperhotConcept
 
 Простая механика замедления игры как в Superhot
 
